@@ -1,5 +1,5 @@
 # GaleForce-Jpeg-Rescue
-GaleForce Jpeg Rescue (GFJR) a free tool used to extract jpegs from binary data, especially those with bad exif producing a false app0 marker due to class design.
+GaleForce Jpeg Rescue (GFJR) a free tool used to extract jpegs from binary data, especially those with bad exif due to class design.
 
 # Screenshots
 # Example run
